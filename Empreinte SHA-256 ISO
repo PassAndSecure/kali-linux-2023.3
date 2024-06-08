@@ -1,0 +1,6 @@
+SHA-256:
+0b0f5560c21bcc1ee2b1fef2d8e21dca99cc6efa938a47108bbba63bec499779
+
+Vérifier l'intégrité de l'ISO :
+Sous Linux : sha256sum kali-linux-2023.3-installer-netinst-amd64.iso
+Sous Windows : CertUtil -hashfile kali-linux-2023.3-installer-netinst-amd64.iso SHA256
